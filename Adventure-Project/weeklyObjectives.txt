@@ -1,0 +1,20 @@
+----------------------------------------------------
+Weekly Objectives:
+
+Week 12:
+  - Finish building basic and generic Objectives
+    - includes equipment, scenarios, effects, spells, actions, enemies, npcs (consumables may be added in the future)
+
+Week 13:
+  - Have functional GUI templates set up for each scenario type
+  - Have simple template drafts in the code for battle/interaction/decision scenarios
+
+Week 14:
+  - Fit mechanics and scenarios together
+  - Incorporate scenarios into GUI
+
+Week 15:
+  - Put all scenarios into GUI
+  - Make necessary additions/revisions
+  - Ensure game is efficient and balanced
+  - Finish game

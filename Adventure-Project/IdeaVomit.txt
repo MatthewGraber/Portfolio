@@ -1,0 +1,61 @@
+Idea vomit
+
+Basic mechanics:
+  Three stats: HP, stamina, magicka
+    Stamina regenerates quickly, magicka regens slowly
+  Action system: Action bonus action OR three small actions
+  Basic actions:
+    Swap weapons
+    Dodge?
+    Strike (uses stamina)
+    Cast spell (uses magicka)
+    Rest? (Regain stamina)
+    Channel? (Regain magicka)
+  
+  Defense: Armor Class (AC) AKA difficulty to be hit
+    Determines the percentage chance that you are hit by an attack
+  Weapons: each weapon has the following values:
+    Hit chance
+    Damage
+    Hands required
+    Off-hand attack?
+    (Relevant to Fighters only)
+      Trip chance
+      Shove chance
+      Disarm chance
+      Block value (AC boost?)
+      Counter chance (If you are missed, chance to hit with counterattack)
+    Spells:
+      Each spell can be cast at higher levels, but the higher level you cast the higher the chance of failure
+
+Three archetypes: Fighter, Rogue, Wizard
+  Each should have passive and active abilities
+
+  Fighter:
+    Focuses on martial prowess. Has the most stamina and hit points.
+    Manuvers: Trip, shove, disarm, block, counter
+    
+  Rogue:
+    Focuses on stealth and attacks that inflict conditions. Medium stamina and HP, low magicka
+    Each creature has weak points, and the rogue can specify where it hits it's target
+    
+  Wizard:
+    Focuses on magic. High magicka, low in other stats
+    Learns more spells to begin with, can 'upcast' more easily
+
+Story stuff:
+  2-3 recurring NPCs with reputation
+  Location reputation, bounty hunters?
+  Boblin betrayal? Hee-how!
+  Some sort of BBEG has threatened to take over the world
+ 
+ Area progression:
+  3 areas? More than this seems time consuming
+  10? possible encounters in each area, 1 for each NPC?, 1-2 mandatory (Boss fight?), plus misc
+  5? encounters happen per area
+  10? encounters that fit anywhere
+  This means 40 total encounters. That's a lot of work
+
+
+
+

@@ -1,0 +1,17 @@
+
+
+class Mage Armor(Spell):
+   def __init__(self):
+      self.__name = 'Mage Armor'
+
+class Burning Hands(Spell):
+   def __init__(self):
+      self.__name = 'Burning Hands'
+
+class Thunderwave(Spell):
+   def __init__(self):
+      self.__name = 'Thunderwave'
+
+class Web(Spell):
+   def __init__(self):
+      self.__name = 'Web'
